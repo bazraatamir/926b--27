@@ -13,4 +13,5 @@ const sequelize = new Sequelize("sw-926-927", "root", "123456789", {
 //   }
 // };
 // createTable();
+
 module.exports = sequelize;
